@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,666
+This is an example subtitles file.
+
+2
+00:00:01,666 --> 00:00:03,333
+Subtitles can be used to ensure
+
+3
+00:00:03,333 --> 00:00:05,000
+an accessible and inclusive experience.
+
