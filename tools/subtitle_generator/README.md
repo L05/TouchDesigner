@@ -5,4 +5,4 @@ Hey y'all, I created a simple SRT file importer and corresponding subtitle gener
 Nothing fancy here, mostly operators and some light python, commented for clarity.
 I've also separated some of the sub-components into their own TOX files in case someone is interested only in a specific part.
 
-![Screenshot](/data/subtile_generator.png)
+![Screenshot](data/subtile_generator.png)
