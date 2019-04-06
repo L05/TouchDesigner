@@ -6,7 +6,7 @@ I've uploaded a looper.tox file that takes a TOP input for video capture and a C
 
 ![Screenshot of looper in network editor.](data/looper_scrn.PNG)
 
-![Screenshot of looper parameters.](parameter_scrn.PNG)
+![Screenshot of looper parameters.](data/parameter_scrn.PNG)
 
 [Related TouchDesigner Forum Thread](http://derivative.ca/Forum/viewtopic.php?f=22&t=10207&hilit=video+looper)
 
