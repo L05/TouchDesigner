@@ -1,4 +1,6 @@
 # Kinect Floor Track 099
+by L05
+http://L05.is
 
 There are two components:
 
@@ -13,12 +15,7 @@ https://www.dropbox.com/s/j9qgsz82vpgkont/KinectFloorTrack_testvideo.rar
 
 ![Screenshot](data/screenshot_099_sm.png)
 
-####
-####
-
-KinectFloorTrack
-by L05
-# http://L05.is
+## Description
 
 Module for tracking multiple people on a clear, flat floor space using a Kinect v2. Recommended position for the Kinect is approximately 14-15 feet (~4.5 meters) above the floor, pointed directly down, perpendicular to the floor plane. The tilt correct feature provides some correction for placement of kinect at angles.
 
@@ -30,8 +27,8 @@ This has been tested successfully on an Intel NUC i5-6260U, which makes it great
 
 If you use this and/or improve upon it, please let me know. Feedback is encouraged!
 
-# 099.1
-# 2017.05.26
+##### 099.1
+##### 2017.05.26
 Updated so that it runs on TouchDesigner 099 and uses the new Blobtrack TOP.
 
 Made the following feature changes:
