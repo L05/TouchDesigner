@@ -1,5 +1,7 @@
 # Video Looper TOX + Example TOE
 
+[Related TouchDesigner Forum Thread](http://derivative.ca/Forum/viewtopic.php?f=22&t=10207&hilit=video+looper)
+
 After helping with some Cache TOP related questions on the Facebook group, I realized I couldn't find any simple looper examples and decided to make one.
 
 I've uploaded a looper.tox file that takes a TOP input for video capture and a CHOP input as a record signal. Video is cached using a Cache TOP and automatically scrubbed through with LFO CHOPs.
@@ -8,7 +10,6 @@ I've uploaded a looper.tox file that takes a TOP input for video capture and a C
 
 ![Screenshot of looper parameters.](data/parameter_scrn.PNG)
 
-[Related TouchDesigner Forum Thread](http://derivative.ca/Forum/viewtopic.php?f=22&t=10207&hilit=video+looper)
 
 The looper has several custom parameters under its Looper page:
 
