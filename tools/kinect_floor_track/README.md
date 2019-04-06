@@ -1,6 +1,5 @@
 # Kinect Floor Track 099
-by L05
-http://L05.is
+by [L05](http://L05.is)
 
 There are two components:
 
