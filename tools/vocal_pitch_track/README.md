@@ -6,7 +6,7 @@ This is a quick and dirty pitch detection COMP that returns the fundamental freq
 
 Needed one for testing and didn't see anything in the forum. It's all OPs and commented. Hopefully it's of use!
 
-#####Update v.2:
+##### Update v.2:
 
 Tested with additional microphones. Made a few minor tweaks to the data output. 
 
