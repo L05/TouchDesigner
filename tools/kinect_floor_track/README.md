@@ -14,6 +14,8 @@ https://www.dropbox.com/s/j9qgsz82vpgkont/KinectFloorTrack_testvideo.rar
 
 ![Screenshot](data/screenshot_099_sm.png)
 
+[Related TouchDesigner Forum Thread](http://derivative.ca/Forum/viewtopic.php?f=22&t=10867&p=42981&hilit=kinect+floor+track#p41659)
+
 ## Description
 
 Module for tracking multiple people on a clear, flat floor space using a Kinect v2. Recommended position for the Kinect is approximately 14-15 feet (~4.5 meters) above the floor, pointed directly down, perpendicular to the floor plane. The tilt correct feature provides some correction for placement of kinect at angles.
